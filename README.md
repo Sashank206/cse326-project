@@ -1,2 +1,2 @@
 # cse326-project
-a siye for booking tables in Resturants
+A site for booking tables in Resturants
